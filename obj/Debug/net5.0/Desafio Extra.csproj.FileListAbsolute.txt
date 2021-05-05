@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Desafio Extra\bin\Debug\net5.0\Desafio Extra.exe
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Desafio Extra\bin\Debug\net5.0\Desafio Extra.deps.json
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Desafio Extra\bin\Debug\net5.0\Desafio Extra.runtimeconfig.json
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Desafio Extra\bin\Debug\net5.0\Desafio Extra.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Desafio Extra\bin\Debug\net5.0\Desafio Extra.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Desafio Extra\bin\Debug\net5.0\ref\Desafio Extra.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Desafio Extra\bin\Debug\net5.0\Desafio Extra.pdb
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Desafio Extra\obj\Debug\net5.0\Desafio Extra.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Desafio Extra\obj\Debug\net5.0\Desafio Extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Desafio Extra\obj\Debug\net5.0\Desafio Extra.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Desafio Extra\obj\Debug\net5.0\Desafio Extra.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Desafio Extra\obj\Debug\net5.0\Desafio Extra.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Desafio Extra\obj\Debug\net5.0\Desafio Extra.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Desafio Extra\obj\Debug\net5.0\ref\Desafio Extra.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Desafio Extra\obj\Debug\net5.0\Desafio Extra.pdb
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Desafio Extra\obj\Debug\net5.0\Desafio Extra.genruntimeconfig.cache
